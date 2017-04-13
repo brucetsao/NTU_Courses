@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8"/>
+<title>File:Adkey control.png - Robot Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"File","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":6,"wgPageName":"File:Adkey_control.png","wgTitle":"Adkey control.png","wgCurRevisionId":26429,"wgRevisionId":26429,"wgArticleId":10677,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"File:Adkey_control.png","wgRelevantArticleId":10677,"wgRequestId":"b273771496defdda751847ba","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRestrictionUpload":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":false,"usePageDescriptions":false},"wgVisualEditorToolbarScrollOffset":0});mw.loader.implement("user.options",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","ext.visualEditor.desktopArticleTarget.init"]);});</script>
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=ext.bootstrap.styles%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.action.view.filepage&amp;only=styles&amp;skin=chameleon"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=chameleon"/>
+<script async="" src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=chameleon"></script>
+<meta name="generator" content="MediaWiki 1.27.1"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<link rel="shortcut icon" href="/wiki/resources/assets/wiki.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch_desc.php" title="Robot Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://www.dfrobot.com/wiki/api.php?action=rsd"/>
+<link rel="copyright" href="https://www.gnu.org/copyleft/fdl.html"/>
+<link rel="alternate" type="application/atom+xml" title="Robot Wiki Atom feed" href="/wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-6 ns-subject page-File_Adkey_control_png rootpage-File_Adkey_control_png layout-navhead skin-chameleon action-view">
+
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12">
+				<!-- navigation bar -->
+				<nav class="navbar navbar-default p-navbar" role="navigation" id="mw-navigation">
+					<div class="container-fluid">
+						<div class="navbar-header">
+
+							<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#mw-navigation-collapse">
+								<span class="sr-only">Toggle navigation</span>
+								<span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
+							</button>
+
+							<!-- logo and main page link -->
+							<div id="p-logo" class="p-logo navbar-brand" role="banner">
+								<a><img src="/wiki/resources/assets/wiki.png" alt="Robot Wiki"/></a>
+							</div>
+
+
+						</div>
+
+						<div class="collapse navbar-collapse" id="mw-navigation-collapse"><ul class="nav navbar-nav">
+							<!-- navigation -->
+							<!-- empty -->
+							<!-- Product Manual -->
+							<li class="dropdown">
+								<a href="#" class="dropdown-toggle" data-toggle="dropdown">Product Manual <b class="caret"></b></a>
+								
+								<ul class="dropdown-menu p-Product Manual" id="p-Product Manual">
+										<li id="n-DFR-Series"><a href="/wiki/index.php/Product_Manual#DFR_Series">DFR Series</a></li>
+										<li id="n-SEN-Series"><a href="/wiki/index.php/Product_Manual#SEN_Series">SEN Series</a></li>
+										<li id="n-DRI-Series"><a href="/wiki/index.php/Product_Manual#DRI_Series">DRI Series</a></li>
+										<li id="n-TEL-Series"><a href="/wiki/index.php/Product_Manual#TEL_Series">TEL Series</a></li>
+										<li id="n-FIT-Series"><a href="/wiki/index.php/Product_Manual#FIT_Series">FIT Series</a></li>
+										<li id="n-ROB-Series"><a href="/wiki/index.php/Product_Manual#ROB_Series">ROB Series</a></li>
+										<li id="n-SER-Series"><a href="/wiki/index.php/Product_Manual#SER_Series">SER Series</a></li>
+										<li id="n-TOY-Series"><a href="/wiki/index.php/Product_Manual#TOY_Series">TOY Series</a></li>
+										<li id="n-KIT-Series"><a href="/wiki/index.php/Product_Manual#KIT_Series">KIT Series</a></li>
+										<li id="n-Selector-Guide"><a href="/wiki/index.php/Product_Manual#Selector_Guide">Selector Guide</a></li>
+										<li id="n-Review"><a href="/wiki/index.php/Review">Review</a></li>
+										<li id="n-Project"><a href="/wiki/index.php/Project">Project</a></li>
+										<li id="n-Tutorial"><a href="/wiki/index.php/Tutorial">Tutorial</a></li>
+										<li id="n-Assembly-Guide"><a href="/wiki/index.php/Assembly_Guide">Assembly Guide</a></li>
+								</ul>
+							</li>
+							<!-- Tutorials -->
+							<li class="dropdown">
+								<a href="#" class="dropdown-toggle" data-toggle="dropdown">Tutorials <b class="caret"></b></a>
+								
+								<ul class="dropdown-menu p-Tutorials" id="p-Tutorials">
+										<li id="n-User-Manual"><a href="/wiki/index.php/Product_Manual#User_Manual">User Manual</a></li>
+										<li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="The place to find out">Help</a></li>
+								</ul>
+							</li>
+							<!-- Menu -->
+							<li class="dropdown">
+								<a href="#" class="dropdown-toggle" data-toggle="dropdown">Menu <b class="caret"></b></a>
+								
+								<ul class="dropdown-menu p-Menu" id="p-Menu">
+										<li id="n-HOME"><a href="https://www.dfrobot.com/" rel="nofollow">HOME</a></li>
+										<li id="n-STORE"><a href="https://www.dfrobot.com/store" rel="nofollow">STORE</a></li>
+										<li id="n-BLOG"><a href="https://www.dfrobot.com/blog" rel="nofollow">BLOG</a></li>
+										<li id="n-WIKI"><a href="https://www.dfrobot.com/wiki" rel="nofollow">WIKI</a></li>
+										<li id="n-COMMUNITY"><a href="https://www.dfrobot.com/blog" rel="nofollow">COMMUNITY</a></li>
+								</ul>
+							</li></ul>
+
+							<div class="navbar-right-aligned">
+								<!-- page tools -->
+								<ul class="navbar-tools navbar-nav" >
+									<li class="navbar-tools-tools dropdown">
+										<a data-toggle="dropdown" class="dropdown-toggle" href="#" title="Page tools" ><span>...</span></a>
+										<!-- Content navigation -->
+										<ul class="p-contentnavigation dropdown-menu" id="p-contentnavigation">
+											<!-- namespaces -->
+											<li id="ca-talk" class="new"><a href="/wiki/index.php?title=File_talk:Adkey_control.png&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page [t]" accesskey="t" class="new">Discussion</a></li>
+											<!-- views -->
+											<li id="ca-viewsource"><a href="/wiki/index.php?title=File:Adkey_control.png&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+											<li id="ca-history"><a href="/wiki/index.php?title=File:Adkey_control.png&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+										</ul>
+									</li>
+								</ul>
+
+								<!-- search form -->
+								<div  id="p-search" class="p-search navbar-form" role="search">
+									<form  id="searchform" class="mw-search form-inline" action="/wiki/index.php">
+										<input type="hidden" name="title" value="Special:Search" />
+										<div class="input-group">
+											<input name="search" placeholder="Search" title="Search Robot Wiki [f]" accesskey="f" id="searchInput" class="form-control"/>
+											<div class="input-group-btn">
+												<button value="Go" id="searchGoButton" name="go" title="Go to a page with this exact name if it exists" type="submit" class="searchGoButton btn btn-default"><span class="glyphicon glyphicon-share-alt"></span></button>
+												<button value="Search" id="mw-searchButton" name="fulltext" title="Search the pages for this text" type="submit" class="mw-searchButton btn btn-default"><span class="glyphicon glyphicon-search"></span></button>
+											</div>
+										</div>
+									</form>
+								</div>
+
+								<!-- personal tools -->
+								<ul class="navbar-tools navbar-nav" >
+									<li class="dropdown navbar-tools-tools">
+										<a class="dropdown-toggle navbar-usernotloggedin" href="#" data-toggle="dropdown" title="You are not logged in." ><span class="glyphicon glyphicon-user"></span></a>
+										<ul class="p-personal-tools dropdown-menu dropdown-menu-right" >
+											<li id="pt-login"><a href="/wiki/index.php?title=Special:UserLogin&amp;returnto=File%3AAdkey+control.png" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+										</ul>
+									</li>
+								</ul>
+
+							</div> <!-- navbar-right-aligned -->
+						</div><!-- /.navbar-collapse -->
+					</div>
+				</nav>
+
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-lg-12">
+
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-lg-12">
+				<!-- start the content area -->
+				<div id="content" class="mw-body"><a id="top"></a>
+					<div id="mw-indicators" class="mw-indicators"></div>
+					<div  id="mw-js-message" style="display:none;"></div>
+					<div class ="contentHeader">
+						<!-- title of the page -->
+						<h1 id="firstHeading" class="firstHeading">File:Adkey control.png</h1>
+						<!-- tagline; usually goes something like "From WikiName" primary purpose of this seems to be for printing to identify the source of the content -->
+						<div id="siteSub">From Robot Wiki</div><div id="jump-to-nav" class="mw-jump">Jump to:<a href="#mw-navigation">navigation</a>, <a href="#p-search">search</a></div>
+					</div>
+					<div id="bodyContent">
+						<!-- body text -->
+
+						<div id="mw-content-text"><ul id="filetoc"><li><a href="#file">File</a></li>
+<li><a href="#filehistory">File history</a></li>
+<li><a href="#filelinks">File usage</a></li>
+<li><a href="#metadata">Metadata</a></li></ul><div class="fullImageLink" id="file"><a href="/wiki/images/7/75/Adkey_control.png"><img alt="File:Adkey control.png" src="/wiki/images/thumb/7/75/Adkey_control.png/800px-Adkey_control.png" width="800" height="344" srcset="/wiki/images/thumb/7/75/Adkey_control.png/1200px-Adkey_control.png 1.5x, /wiki/images/7/75/Adkey_control.png 2x" /></a><div class="mw-filepage-resolutioninfo">Size of this preview: <a href="/wiki/images/thumb/7/75/Adkey_control.png/800px-Adkey_control.png" class="mw-thumbnail-link">800 × 344 pixels</a>. <span class="mw-filepage-other-resolutions">Other resolutions: <a href="/wiki/images/thumb/7/75/Adkey_control.png/320px-Adkey_control.png" class="mw-thumbnail-link">320 × 138 pixels</a> | <a href="/wiki/images/7/75/Adkey_control.png" class="mw-thumbnail-link">1,290 × 555 pixels</a>.</span></div></div>
+<div class="fullMedia"><a href="/wiki/images/7/75/Adkey_control.png" class="internal" title="Adkey control.png">Original file</a> &#8206;<span class="fileInfo">(1,290 × 555 pixels, file size: 57 KB, MIME type: <span class="mime-type">image/png</span>)</span>
+</div>
+<div id="mw-imagepage-content" lang="en" dir="ltr" class="mw-content-ltr">
+<!-- 
+NewPP limit report
+Cached time: 20161204204516
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.000 seconds
+Real time usage: 0.000 seconds
+Preprocessor visited node count: 0/1000000
+Preprocessor generated node count: 2/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 0/40
+Expensive parser function count: 0/100
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 - -total
+-->
+
+<!-- Saved in parser cache with key df_wikiv3-wk:pcache:idhash:10677-0!*!*!*!*!*!* and timestamp 20161204204516 and revision id 26429
+ -->
+</div><h2 id="filehistory">File history</h2>
+<div id="mw-imagepage-section-filehistory">
+<p>Click on a date/time to view the file as it appeared at that time.
+</p>
+<table class="wikitable filehistory">
+<tr><th></th><th>Date/Time</th><th>Thumbnail</th><th>Dimensions</th><th>User</th><th>Comment</th></tr>
+<tr><td>current</td><td class='filehistory-selected' style='white-space: nowrap;'><a href="/wiki/images/7/75/Adkey_control.png">10:41, 8 April 2014</a></td><td><a href="/wiki/images/7/75/Adkey_control.png"><img alt="Thumbnail for version as of 10:41, 8 April 2014" src="/wiki/images/thumb/7/75/Adkey_control.png/120px-Adkey_control.png" width="120" height="52" /></a></td><td>1,290 × 555 <span style="white-space: nowrap;">(57 KB)</span></td><td><a href="/wiki/index.php?title=User:Intern&amp;action=edit&amp;redlink=1" class="new mw-userlink" title="User:Intern (page does not exist)">Intern</a><span style="white-space: nowrap;"> <span class="mw-usertoollinks">(<a href="/wiki/index.php?title=User_talk:Intern&amp;action=edit&amp;redlink=1" class="new" title="User talk:Intern (page does not exist)">talk</a> | <a href="/wiki/index.php/Special:Contributions/Intern" title="Special:Contributions/Intern">contribs</a>)</span></span></td><td dir="ltr"></td></tr>
+</table>
+
+</div>
+<ul>
+<li id="mw-imagepage-upload-disallowed">You cannot overwrite this file.</li>
+</ul>
+<h2 id="filelinks">File usage</h2>
+<div id='mw-imagepage-section-linkstoimage'>
+<p>The following page links to this file:
+</p><ul class="mw-imagepage-linkstoimage">
+<li class="mw-imagepage-linkstoimage-ns0"><a href="/wiki/index.php/DFPlayer_Mini_SKU:DFR0299" title="DFPlayer Mini SKU:DFR0299">DFPlayer Mini SKU:DFR0299</a></li>
+</ul>
+</div>
+<h2 id="metadata">Metadata</h2>
+<div class="mw-imagepage-section-metadata">This file contains additional information, probably added from the digital camera or scanner used to create or digitize it.
+If the file has been modified from its original state, some details may not fully reflect the modified file.<table id="mw_metadata" class="mw_metadata">
+<tr class="exif-xresolution collapsable">
+<th>Horizontal resolution</th>
+<td>37.8 dpc</td>
+</tr><tr class="exif-yresolution collapsable">
+<th>Vertical resolution</th>
+<td>37.8 dpc</td>
+</tr></table>
+</div>
+</div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://www.dfrobot.com/wiki/index.php?title=File:Adkey_control.png&amp;oldid=26429">https://www.dfrobot.com/wiki/index.php?title=File:Adkey_control.png&amp;oldid=26429</a>"</div>
+
+						<!-- end body text -->
+					</div>
+					<!-- category links -->
+					<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-lg-12">
+				<!-- Tools-->
+				<nav class="navbar navbar-default p-tb " id="p-tb"  >
+					<ul class="nav navbar-nav small">
+						<li id="t-whatlinkshere"><a href="/wiki/index.php/Special:WhatLinksHere/File:Adkey_control.png" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+						<li id="t-recentchangeslinked"><a href="/wiki/index.php/Special:RecentChangesLinked/File:Adkey_control.png" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+						<li id="t-specialpages"><a href="/wiki/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+						<li id="t-print"><a href="/wiki/index.php?title=File:Adkey_control.png&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+						<li id="t-permalink"><a href="/wiki/index.php?title=File:Adkey_control.png&amp;oldid=26429" title="Permanent link to this revision of the page">Permanent link</a></li>
+						<li id="t-info"><a href="/wiki/index.php?title=File:Adkey_control.png&amp;action=info" title="More information about this page">Page information</a></li>
+						
+					</ul>
+				</nav>
+
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-lg-12">
+				<!-- footer links -->
+				<ul class="footer-info list-unstyled small" id="footer-info">
+					<!-- info -->
+					<li> This page was last modified on 8 April 2014, at 10:41.</li>
+					<li>Content is available under <a class="external" rel="nofollow" href="https://www.gnu.org/copyleft/fdl.html">GNU Free Documentation License 1.3 or later</a> unless otherwise noted.</li>
+				</ul>
+
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-lg-6">
+				<!-- places -->
+				<ul class="list-inline footer-places " id="footer-places">
+					<li><small><a href="/wiki/index.php/Robot_Wiki:Privacy_policy" title="Robot Wiki:Privacy policy">Privacy policy</a></small></li>
+					<li><small><a href="/wiki/index.php/Robot_Wiki:About" title="Robot Wiki:About">About Robot Wiki</a></small></li>
+					<li><small><a href="/wiki/index.php/Robot_Wiki:General_disclaimer" title="Robot Wiki:General disclaimer">Disclaimers</a></small></li>
+				</ul>
+
+			</div>
+			<div class="col-lg-6">
+				<!-- footer icons -->
+				<ul class="list-inline pull-right footer-icons " id="footer-icons" >
+					<!-- copyright -->
+					<li><a href="https://www.gnu.org/copyleft/fdl.html"><img src="/wiki/resources/assets/licenses/gnu-fdl.png" alt="GNU Free Documentation License 1.3 or later" width="88" height="31"/></a></li>
+					<!-- poweredby -->
+					<li><a href="//www.mediawiki.org/"><img src="/wiki/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/wiki/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /wiki/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+				</ul>
+
+			</div>
+		</div>
+	</div><script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.state({"user":"ready","user.groups":"ready"});mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.action.view.metadata","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.visualEditor.targetLoader","ext.bootstrap.scripts"]);});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":47});});</script></body>
+</html>
